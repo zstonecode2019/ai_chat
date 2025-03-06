@@ -19,6 +19,6 @@ bun dev
 
 Then, open broswer to visit localhost:3000(your server port):
 
-Then, sign in using any nickname you come out and your AI model app_key(like my key "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")
+Then, sign in using any nickname you come out and your AI model app_key(like my key "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")
 
 Finnally, chat with AI

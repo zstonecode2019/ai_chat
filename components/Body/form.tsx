@@ -8,7 +8,7 @@ export default function Form({
 }: {
   onAnswer: (question: string) => void;
 }) {
-  const [question, setQuestion] = useState("");
+  const [question, setQuestion] = useState("what's one interesting city to visit in Japan?");
   const toAnswer = (event: React.MouseEvent) => {
     event.preventDefault();
     if (!question) return;
