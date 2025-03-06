@@ -1,0 +1,14 @@
+.avatar {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  padding: 4px;
+  background-color: #c6ce6a;
+  color: #fff;
+  vertical-align: middle;
+  margin-right: 10px;
+  text-align: center;
+  line-height: 20px;
+  font-size: 8px;
+}
