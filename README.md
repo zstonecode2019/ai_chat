@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, install packages:
+### First, install packages:
 
 ```bash
 npm install
@@ -17,8 +17,12 @@ pnpm dev
 bun dev
 ```
 
-Then, open broswer to visit localhost:3000(your server port):
+### Then, open broswer to visit localhost:3000(your server port):
 
-Then, sign in using any nickname you come out and your AI model app_key(like my key "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")
+### Then, sign in using any nickname you come out and your AI model app_key(like my key "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" if forbidden, then use your own key)
 
-Finnally, chat with AI
+### Finnally, chat with AI
+
+### github: https://github.com/zstonecode2019/ai_chat.git
+
+### vercel: https://ai-chat-nine-delta.vercel.app/
